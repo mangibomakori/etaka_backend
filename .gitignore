@@ -1,0 +1,12 @@
+/.idea
+/venv
+/todo
+__pycache__/
+/sys.py
+/media/
+
+# Database stuff
+*.sqlite3
+migrations/
+db.sqlite3
+/venv/
